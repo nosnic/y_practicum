@@ -1,4 +1,4 @@
-# Исследование надежности заемщиков
+# Анализ прибыльности подписок
 
 [ipynb](https://github.com/nosnic/y_practicum/blob/main/03_subscription_benefits/subscription_benefits.ipynb)
 

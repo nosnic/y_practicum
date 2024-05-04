@@ -1,4 +1,4 @@
-# Исследование надежности заемщиков
+# Выбор локации для скважины
 
 [ipynb](https://github.com/nosnic/y_practicum/blob/main/07_location_selection_for_well/location_selection_for_well.ipynb)
 

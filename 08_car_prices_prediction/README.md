@@ -1,4 +1,4 @@
-# Построение модели для предсказания стоимости автомобилей
+# Предсказание стоимости автомобилей
 
 [ipynb](https://github.com/nosnic/y_practicum/blob/main/08_car_prices_prediction/car_prices_prediction.ipynb)
 
@@ -10,6 +10,7 @@
 
 - **python**
 - **pandas**
+- **sklearn**
 - **catboost**
 - **lightgbm**
 

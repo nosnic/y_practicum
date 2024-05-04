@@ -1,4 +1,6 @@
-# Создание моделей для оценки коров[ipynb](https://github.com/nosnic/y_practicum/blob/main/05_predict_best_cows_to_buy/predict_best_cows_to_buy.ipynb)
+# Создание моделей для оценки коров
+
+[ipynb](https://github.com/nosnic/y_practicum/blob/main/05_predict_best_cows_to_buy/predict_best_cows_to_buy.ipynb)
 
 ## Описание проекта
 
